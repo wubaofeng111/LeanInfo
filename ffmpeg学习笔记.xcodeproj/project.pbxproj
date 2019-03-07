@@ -67,7 +67,6 @@
 		1544A847222FCFAA0083C301 = {
 			isa = PBXGroup;
 			children = (
-				1544A869222FD0120083C301 /* Doc.rtf */,
 				1544A852222FCFAA0083C301 /* ffmpeg学习笔记 */,
 				1544A870223116D40083C301 /* RuntimeLean */,
 				1544A851222FCFAA0083C301 /* Products */,
@@ -86,6 +85,7 @@
 		1544A852222FCFAA0083C301 /* ffmpeg学习笔记 */ = {
 			isa = PBXGroup;
 			children = (
+				1544A869222FD0120083C301 /* Doc.rtf */,
 				1544A853222FCFAA0083C301 /* AppDelegate.h */,
 				1544A854222FCFAA0083C301 /* AppDelegate.m */,
 				1544A856222FCFAA0083C301 /* ViewController.h */,
